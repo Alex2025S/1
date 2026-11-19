@@ -1,0 +1,6 @@
+{
+  "name": "PyMentor",
+  "description": "Інтерактивний ментор для дебагінгу та вивчення Python з адаптивним тестувальником знань, детектором ШІ-плагіату та інтеграцією з Google Docs і Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
